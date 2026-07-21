@@ -20,16 +20,29 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30" /> About Me
 
-```javascript
+```typescript
 const akib = {
-  location: "Dhaka, Bangladesh 🇧🇩",
+  name: "Kazi Akib Rayhan",
   role: "Software Engineer @ Bayshore Communication",
-  experience: "3.4+ years — web, mobile & backend",
-  currentlyBuilding: "Swop — Web3 wallet, trading & social app 📱",
-  chains: ["Ethereum", "Polygon", "Base", "Arbitrum", "Solana"],
-  aiWorkflow: ["Claude Code", "Codex"],
-  funFact: "Reduced API call overhead by up to 50% 🚀",
-};
+  location: "Dhaka, Bangladesh 🇧🇩",
+  experience: "3.4+ years",
+
+  stack: {
+    mobile: ["React Native", "Expo"],
+    web: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB", "Prisma"],
+    web3: ["Ethers.js", "Solana Web3.js", "Privy"],
+  },
+
+  currentProject: {
+    name: "Swop — Connecting the World",
+    type: "Web3 wallet · trading · social",
+    chains: ["Ethereum", "Polygon", "Base", "Arbitrum", "Solana"],
+    liveOn: ["App Store", "Google Play"],
+  },
+
+  dailyDrivers: ["TypeScript", "Claude Code", "Codex"],
+} as const;
 ```
 
 - 🔭 Currently building **[Swop – Connecting the World](https://apps.apple.com/app/id1593201322)** — a Web3 wallet, trading & social platform live on the **App Store** and **Google Play**
