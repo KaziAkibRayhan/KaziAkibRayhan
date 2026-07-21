@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e141c,60:1a2b45,100:e2a648&height=210&section=header&text=Akib%20Rayhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Web3&descAlignY=57&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e141c,60:1a2b45,100:e2a648&height=210&section=header&text=Akib%20Rayhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=57&descSize=18" width="100%"/>
 
 <a href="https://kazi-akib-rayhan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=E2A648&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+3%2B+years;React+Native+%E2%80%94+shipping+to+both+stores;Node.js+%2B+Express+%2B+MongoDB+backends;Web3+wallets+across+5+blockchain+networks;Building+with+Claude+Code+%26+Codex+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=E2A648&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+3.4%2B+years;React+Native+%E2%80%94+shipping+to+both+stores;Node.js+%2B+Express+%2B+MongoDB+backends;Web3+wallets+across+5+blockchain+networks;Building+with+Claude+Code+%26+Codex+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://kazi-akib-rayhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kazi--akib--rayhan.vercel.app-e2a648?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0e141c" /></a>
 <a href="https://linkedin.com/in/kazi-akib-rayhan"><img src="https://img.shields.io/badge/LinkedIn-kazi--akib--rayhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e141c" /></a>
-<a href="mailto:kaziakibrayhan2018@gmail.com"><img src="https://img.shields.io/badge/Email-kaziakibrayhan2018-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e141c" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaziakibrayhan2018@gmail.com"><img src="https://img.shields.io/badge/Email-kaziakibrayhan2018-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e141c" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=KaziAkibRayhan&style=for-the-badge&color=e2a648&label=PROFILE+VIEWS" />
 
@@ -18,13 +18,13 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30" /> About Me
 
 ```javascript
 const akib = {
   location: "Dhaka, Bangladesh 🇧🇩",
   role: "Software Engineer @ Bayshore Communication",
-  experience: "3+ years — web, mobile & backend",
+  experience: "3.4+ years — web, mobile & backend",
   currentlyBuilding: "Swop — Web3 wallet, trading & social app 📱",
   chains: ["Ethereum", "Polygon", "Base", "Arbitrum", "Solana"],
   aiWorkflow: ["Claude Code", "Codex"],
@@ -40,7 +40,7 @@ const akib = {
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ const akib = {
 
 <br/>
 
-## 🚀 What I Do
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> What I Do
 
 <details open>
 <summary><b>📱 React Native — cross-platform mobile apps</b></summary>
@@ -110,7 +110,7 @@ const akib = {
 
 <br/>
 
-## 📂 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30" /> Featured Projects
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
@@ -119,21 +119,17 @@ const akib = {
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KaziAkibRayhan&theme=dark&hide_border=true&background=0e141c&ring=e2a648&fire=e2a648&currStreakLabel=e2a648" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/e2a648/KaziAkibRayhan" alt="Akib's contribution chart" width="100%" />
-
 </div>
 
 <br/>
 
-## 🐍 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Contribution Graph
 
 <div align="center">
 
@@ -149,9 +145,9 @@ const akib = {
 
 <div align="center">
 
-### 💬 Let's build something together!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Let's build something together!
 
-<a href="mailto:kaziakibrayhan2018@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-kaziakibrayhan2018%40gmail.com-e2a648?style=for-the-badge&labelColor=0e141c" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaziakibrayhan2018@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-kaziakibrayhan2018%40gmail.com-e2a648?style=for-the-badge&labelColor=0e141c" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e141c,60:1a2b45,100:e2a648&height=120&section=footer" width="100%"/>
 
