@@ -115,7 +115,7 @@ const akib = {
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
 | **Swop – Connecting the World** 🌐 | Web3 wallet, trading & social mobile app — 5 blockchain networks, in production | React Native · Privy · Jupiter · Ethers.js · Solana Web3.js | [App Store](https://apps.apple.com/app/id1593201322) · [Google Play](https://play.google.com/store/apps/details?id=com.travisheron.swopapp) |
-| **Campus Resource Hub** 📚 | Full-stack platform for students to share & preview study resources (PDF, DOCX, PPTX, XLSX) with AI-powered features via OpenAI API | React · Node.js · Express · MongoDB · Socket.io · Cloudinary | [Live](https://campus-resource-hub-frontend.vercel.app) · [GitHub](https://github.com/KaziAkibRayhan) |
+| **Campus Resource Hub** 📚 | Full-stack platform for students to share & preview study resources (PDF, DOCX, PPTX, XLSX) with AI-powered features via OpenAI API | React · Node.js · Express · MongoDB · Socket.io · Cloudinary | [Live](https://campus-resource-hub-frontend.vercel.app/) · [Frontend](https://github.com/KaziAkibRayhan/campus-resource-hub-frontend) · [Backend](https://github.com/KaziAkibRayhan/campus-resource-hub-backend) |
 
 <br/>
 
@@ -123,18 +123,11 @@ const akib = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaziAkibRayhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0e141c&title_color=e2a648&icon_color=e2a648" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziAkibRayhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0e141c&title_color=e2a648&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=KaziAkibRayhan&theme=dark&hide_border=true&background=0e141c&ring=e2a648&fire=e2a648&currStreakLabel=e2a648" />
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaziAkibRayhan&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-</a>
+<img src="https://ghchart.rshah.org/e2a648/KaziAkibRayhan" alt="Akib's contribution chart" width="100%" />
 
 </div>
 
