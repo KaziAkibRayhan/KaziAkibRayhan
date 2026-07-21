@@ -110,50 +110,12 @@ const akib = {
 
 <br/>
 
-## 💼 Experience
-
-<table>
-  <tr>
-    <td><b>🏢 Bayshore Communication</b></td>
-    <td>Junior Software Engineer</td>
-    <td><code>Aug 2025 – Present</code></td>
-  </tr>
-  <tr>
-    <td colspan="3"><sub>Core contributor to Swop — multi-chain wallet, cross-chain swaps, social features, NFT minting, prediction markets & releases on both stores</sub></td>
-  </tr>
-  <tr>
-    <td><b>🏢 IT Corner Limited</b></td>
-    <td>Web &amp; Mobile App Developer</td>
-    <td><code>Aug 2023 – Aug 2025</code></td>
-  </tr>
-  <tr>
-    <td colspan="3"><sub>React & React Native apps with Node.js/Express/MongoDB/Prisma backends, real-time WebSocket communication — cut API call overhead by up to 50%</sub></td>
-  </tr>
-  <tr>
-    <td><b>🏢 IT Corner Limited</b></td>
-    <td>React Frontend Developer (Intern)</td>
-    <td><code>Mar 2023 – Aug 2023</code></td>
-  </tr>
-  <tr>
-    <td colspan="3"><sub>Reusable React components with Ant Design; CI/CD workflows with Bitbucket, Git & GitHub on live client projects</sub></td>
-  </tr>
-</table>
-
-<br/>
-
 ## 📂 Featured Projects
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
 | **Swop – Connecting the World** 🌐 | Web3 wallet, trading & social mobile app — 5 blockchain networks, in production | React Native · Privy · Jupiter · Ethers.js · Solana Web3.js | [App Store](https://apps.apple.com/app/id1593201322) · [Google Play](https://play.google.com/store/apps/details?id=com.travisheron.swopapp) |
 | **Campus Resource Hub** 📚 | Full-stack platform for students to share & preview study resources (PDF, DOCX, PPTX, XLSX) with AI-powered features via OpenAI API | React · Node.js · Express · MongoDB · Socket.io · Cloudinary | [Live](https://campus-resource-hub-frontend.vercel.app) · [GitHub](https://github.com/KaziAkibRayhan) |
-
-<br/>
-
-## 🎓 Education
-
-- **B.Sc. in Computer Science & Engineering** — Northern University Bangladesh, Dhaka `2023 – Present`
-- **Diploma in Engineering (CST)** — Cumilla Polytechnic Institute `2017 – 2021` · CGPA **3.83 / 4.00**
 
 <br/>
 
