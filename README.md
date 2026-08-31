@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e141c,60:1a2b45,100:e2a648&height=210&section=header&text=Akib%20Rayhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=57&descSize=18" width="100%"/>
 
 <a href="https://kazi-akib-rayhan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=E2A648&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+3.4%2B+years;React+Native+%E2%80%94+shipping+to+both+stores;Node.js+%2B+Express+%2B+MongoDB+backends;Web3+wallets+across+5+blockchain+networks;Building+with+Claude+Code+%26+Codex+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=E2A648&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+3.5%2B+years;React+Native+%E2%80%94+shipping+to+both+stores;Node.js+%2B+Express+%2B+MongoDB+backends;Web3+wallets+across+5+blockchain+networks;Building+with+Claude+Code+%26+Codex+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@ const akib = {
   name: "Kazi Akib Rayhan",
   role: "Software Engineer @ Bayshore Communication",
   location: "Dhaka, Bangladesh 🇧🇩",
-  experience: "3.4+ years",
+  experience: "3.5+ years",
 
   stack: {
     mobile: ["React Native", "Expo"],
